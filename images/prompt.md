@@ -1,1 +1,0 @@
-give me a relevant section idea about my dev conference website which will be after pricing section and before footer
